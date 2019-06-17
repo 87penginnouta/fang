@@ -23,7 +23,7 @@ body {
   width: 500px;
   position: absolute;
   top: 300px;
-  left: 200px;
+  left: 450px;
   z-index:0;
 
 }
@@ -73,19 +73,19 @@ body {
     top:0px;
   }
   15%{
-    top:-50px;
+    top:-30px;
   }
   20%{
-    top:-40px;
+    top:-10px;
   }
-  35%{
-    top:-100px;
+  25%{
+    top:-50px;
     	
   }
-  50%{
-    top:20px;
+  30%{
+    top:30px;
   }
-  60%{
+  40%{
     top:0px;
   }
 }
@@ -179,15 +179,15 @@ body {
 }
 .wl{
   position:absolute;
-  right:-10px;
+  right:-200px;
   transition: 0.5s;
 }
 .left{
   position:absolute;
-  width:400px;
+  width:500px;
   height:800px;
   background:#fffbdb;
-  right:-900px;
+  right:-1000px;
   top:-400px;
   z-index:-5;
   
@@ -223,12 +223,12 @@ body {
 }
 
 .wl:hover{
-  transform: translate(-300px,0px);
+  transform: translate(-400px,0px);
 }
 
 .table{
   position:absolute;
-  width:1600px;
+  width:2000px;
   height:300px;
   background:#35384f;
   top: 100px;
