@@ -223,7 +223,7 @@ body {
 }
 
 .wl:hover{
-  transform: translate(-200px,0px);
+  transform: translate(-150px,0px);
 }
 
 .table{
