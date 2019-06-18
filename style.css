@@ -1,4 +1,4 @@
-
+﻿
 @import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
 
 * {
@@ -223,7 +223,7 @@ body {
 }
 
 .wl:hover{
-  transform: translate(-400px,0px);
+  transform: translate(-200px,0px);
 }
 
 .table{
